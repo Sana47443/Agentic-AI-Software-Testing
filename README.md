@@ -1,4 +1,4 @@
-# SentinelQA — Agentic AI System for Intelligent Software Testing
+# SentinelQA : Agentic AI System for Intelligent Software Testing
 
 A complete runnable reconstruction of an agentic software-testing project built around five cooperating components:
 
