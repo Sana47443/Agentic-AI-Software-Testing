@@ -1,0 +1,5 @@
+[
+  {"id":"REQ-001","requirement":"As a user, I should be able to reset my password by entering my email address and receiving a reset link."},
+  {"id":"REQ-002","requirement":"Users may transfer between $1 and $5,000 per transaction."},
+  {"id":"REQ-003","requirement":"An account can be Active, Locked, or Closed. After five failed login attempts, an Active account transitions to Locked."}
+]

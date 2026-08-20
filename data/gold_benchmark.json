@@ -1,0 +1,4 @@
+[
+  {"requirement":"As a user, I should be able to reset my password by entering my email address and receiving a reset link.","gold_concepts":["valid email","invalid email","missing email","reset link"]},
+  {"requirement":"Users may transfer between $1 and $5,000 per transaction.","gold_concepts":["lower boundary 1","below lower boundary","upper boundary 5000","above upper boundary"]}
+]

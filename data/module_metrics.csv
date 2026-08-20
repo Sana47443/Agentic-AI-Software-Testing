@@ -1,0 +1,7 @@
+module,loc,churn,complexity,prior_bugs,future_defects
+auth.py,420,120,18,9,7
+payments.py,780,310,32,15,13
+profile.py,260,55,10,2,2
+notifications.py,350,90,14,4,4
+reporting.py,620,205,24,11,9
+utils.py,150,20,7,1,1
