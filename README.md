@@ -10,6 +10,8 @@ A complete runnable reconstruction of an agentic software-testing project built 
 
 An additional **Evaluation Harness** measures generated test suites for requirement coverage, unsupported assumptions, validity, consistency, and human-review rate.
 
+Demo: https://www.youtube.com/watch?v=K9w9UccZEKQ
+
 ## Architecture
 
 ```text
